@@ -5,22 +5,3 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **PyPass** is a robust Command Line Interface (CLI) tool written in Python designed to generate secure, random passwords. Unlike simple generators, PyPass includes a real-time strength analyzer that gives you immediate visual feedback on how secure your generated password is.
-
----
-
-## 🚀 Features
-
-* **Customizable Length:** You decide how long the password should be (minimum 4 characters).
-* **High Entropy:** Uses Python's `random` and `string` libraries to mix uppercase, lowercase, numbers, and special symbols.
-* **Strength Analysis:** An integrated algorithm evaluates the password based on length and character variety.
-* **Visual Feedback:** Returns color-coded results in the terminal:
-    * 🔴 **WEAK** (Unsafe)
-    * 🟡 **MEDIUM** (Acceptable)
-    * 🟢 **STRONG** (Recommended)
-
----
-
-## 🛠️ How to Run
-
-### Prerequisites
-* Python3
