@@ -23,35 +23,4 @@
 ## 🛠️ How to Run
 
 ### Prerequisites
-* Python 3.x installed on your machine.
-
-### Installation & Usage
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/YOUR-USERNAME/pypass-generator.git](https://github.com/YOUR-USERNAME/pypass-generator.git)
-    ```
-
-2.  **Navigate to the project folder**
-    ```bash
-    cd pypass-generator
-    ```
-
-3.  **Run the script**
-    ```bash
-    python main.py
-    ```
-
----
-
-## 📸 Preview
-
-```text
---- ULTRA PASSWORD GENERATOR ---
-
-Enter password length (or '0' to exit): 16
-
-----------------------------------------
-Generated Password:  K9#mPv!2$xL@qZ1w
-Strength:            STRONG 🔒
-----------------------------------------
+* Python3
